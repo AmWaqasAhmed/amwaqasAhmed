@@ -1,6 +1,7 @@
 ### Hi there, I'm  **Waqas Ahmed** 👋x
 Alt-H1
-
+__strong__
+**bold**
 ## Developer, Partitioner & CS Student.
 
 - 🔭 I'm currently studying and working on: </br>
